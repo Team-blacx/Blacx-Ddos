@@ -1,0 +1,11 @@
+requests
+psutil
+cloudscraper
+impacket
+dnspython
+icmplib
+certifi
+yarl
+scapy
+termcolor
+
