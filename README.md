@@ -7,6 +7,7 @@
 
 
 
+![Screenshot+at+2025-01-02+18-23-34_edit_84216050691518](https://github.com/user-attachments/assets/1c4ccd90-eec0-437e-b815-79e0406650a9)
 
 
 
@@ -15,7 +16,7 @@
 
 
 
-![New Update](https://github.com/user-attachments/assets/54c78acf-665e-44fb-b3ae-e648473a838b)
+
 
 # **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) ![Trial](https://img.shields.io/badge/Trial-version-orange)
 
